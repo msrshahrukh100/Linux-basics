@@ -43,7 +43,7 @@
 
 `chmod u+x myfile`  -  to give permission to user to execute 
 
-`chmod u+x myfile`  -  to remove permission to user to execute
+`chmod u-x myfile`  -  to remove permission to user to execute
 
 `chmod u+rw,g+rw myfile`  -  similarly g for group, no space before after comma
 
